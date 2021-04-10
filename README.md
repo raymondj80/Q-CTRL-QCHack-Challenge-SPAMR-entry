@@ -1,2 +1,3 @@
-# QSnake
-Quantum version of the snake game
+# QCtrl
+Qctrl Hackathon Challenge
+
