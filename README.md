@@ -1,3 +1,2 @@
-# QCtrl
-Qctrl Hackathon Challenge
+Q-CTRL QCHack Challenge <SPAMR> entry
 
