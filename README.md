@@ -9,7 +9,11 @@ Our improved version is [crab.ipynb](./crab.ipynb)
 ## Team
 
 Raymond Jow
+
 Spencer King
+
 Phyo Pyi Kyaw
+
 Maria
+
 Ankit
