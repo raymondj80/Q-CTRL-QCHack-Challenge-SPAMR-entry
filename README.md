@@ -1,2 +1,2 @@
-Q-CTRL QCHack Challenge <SPAMR> entry
+# Q-CTRL QCHack Challenge SPAMR entry
 
